@@ -28,5 +28,5 @@ Working:
 
 Missing/broken/unknown:
 
-- Socket writing broken (does not read line properly)
+- Socket writing or reading (does not read line properly)
 - JSON reading
